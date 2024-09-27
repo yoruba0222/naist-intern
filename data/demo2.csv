@@ -1,0 +1,11 @@
+path,bugs,code_smells,reliability_rating,security_hotspots,vulnerabilities,complexity,cognitive_complexity,duplicated_lines,sqale_debt_ratio,ncloc
+/home/ota/metrics_analyze/cloned_forks/aichallenge/aichallenge-autoware,0,4,1.0,2,0,,,0,1.5,45
+/home/ota/metrics_analyze/cloned_forks/edge/edge-auto,0,6,1.0,1,0,,,0,0.9,88
+/home/ota/metrics_analyze/cloned_forks/rorypec/rorypeck-autoware,0,6,1.0,1,0,,,0,0.9,88
+/home/ota/metrics_analyze/cloned_forks/hatem-darweesh/hatem-darweesh-autoware,0,6,1.0,1,0,,,0,0.9,88
+/home/ota/metrics_analyze/cloned_forks/usdot-fhwa-stol/usdot-fhwa-stol-autoware.ai,0,6,1.0,1,0,,,0,0.9,88
+/home/ota/metrics_analyze/cloned_forks/adamdev8/adamdev8-autoware.ai,0,0,1.0,0,0,,,0,0.0,
+/home/ota/metrics_analyze/cloned_forks/tier4/tier4-autoware,0,3,1.0,2,0,,,0,1.2,43
+/home/ota/metrics_analyze/cloned_forks/mitsudome-r/mitsudome-r-autoware,0,5,1.0,3,0,,,0,0.9,98
+/home/ota/metrics_analyze/cloned_forks/autoware/Autoware,0,6,1.0,1,0,,,0,0.9,88
+/home/ota/metrics_analyze/cloned_forks/nnn/autoware.universe.openplanner,0,3,1.0,2,0,,,0,1.2,43

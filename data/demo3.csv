@@ -1,0 +1,11 @@
+path,bugs,code_smells,reliability_rating,security_hotspots,vulnerabilities,complexity,cognitive_complexity,duplicated_lines,sqale_debt_ratio,ncloc
+/home/ota/metrics_analyze/cloned_forks_star0/RVSZ-jiangfangfei/autoware,0,6,1.0,1,0,,,0,0.9,88
+/home/ota/metrics_analyze/cloned_forks_star0/privvyledge/autoware.gokart,0,5,1.0,3,0,,,0,0.8,99
+/home/ota/metrics_analyze/cloned_forks_star0/rudeibulku/autoware,0,8,1.0,1,0,,,0,0.9,148
+/home/ota/metrics_analyze/cloned_forks_star0/01-technologies/autoware,0,2,1.0,1,0,,,0,0.2,159
+/home/ota/metrics_analyze/cloned_forks_star0/ROS-Agent/autoware,0,6,1.0,1,0,,,0,0.9,88
+/home/ota/metrics_analyze/cloned_forks_star0/rxnew/autoware,0,3,1.0,2,0,,,0,1.1,46
+/home/ota/metrics_analyze/cloned_forks_star0/karsan/autoware.robicarr_init,0,6,1.0,1,0,,,0,0.9,88
+/home/ota/metrics_analyze/cloned_forks_star0/rpan2022/autoware,0,6,1.0,2,0,,,0,0.9,107
+/home/ota/metrics_analyze/cloned_forks_star0/Ruben0407/autoware.vehicle_IONIQ,0,3,1.0,2,0,,,0,1.1,46
+/home/ota/metrics_analyze/cloned_forks_star0/ronaldyang/Autoware,0,6,1.0,1,0,,,0,0.9,88
